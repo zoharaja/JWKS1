@@ -1,0 +1,6 @@
+Caleb Curry. (2020, November 19). REST API Crash Course - Introduction + Full Python API Tutorial [Video]. YouTube.
+    https://youtu.be/qbLc5a9jdXo?si=8xR6zs9vRPH6w57
+Bek Brace. (2021, January 14). User Authentication in Flask App using JWT [ JSON Web Token ] [Video]. YouTube.
+    https://youtu.be/_3NKBHYcpyg?si=AIOsZ_-IZku4SHCw
+Pretty Printed. (2018, March 17). JSON Web Tokens With Django REST Framework [Video]. YouTube.
+    https://youtu.be/Fhcn2qx-4VQ?si=C97xQJcOVOs73pcu
