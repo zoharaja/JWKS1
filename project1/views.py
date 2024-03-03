@@ -66,10 +66,6 @@ def get_jwt(request):
         # Encodes JWT
         encoded_jwt = jwt.encode(payload, private_pem, algorithm='RS256', headers=headers)
 
-        # Decode to string if necessary
-        if isinstance(encoded_jwt, bytes):
-            encoded_jwt = encoded_jwt.decode('utf-8')
-
         # Check if key is expired and remove it from keys_store
         if expired:
             del keys_store[kid]
